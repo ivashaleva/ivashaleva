@@ -1,9 +1,8 @@
-### Hi there 👋 I am Ivelina Shaleva 🦄
+### Hi there, I am Ivelina Shaleva  👋
 
 - 🌱 I’m currently learning Java Script
 - 🤓 I’m currently working on my education
-- 🚴 I love biking...
-- 🏔 ... and hiking
+
 <!--
 **ivashaleva/ivashaleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
